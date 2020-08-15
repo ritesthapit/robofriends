@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Suffer Through Brush';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Suffer Through Brush'), url('Sufferthrough-8M49A.woff') format('woff');
+    }
+
+h1 {
+    font-family:'Suffer Through Brush';
+    font-weight: 200;
+    color: #267Dff;
+}
